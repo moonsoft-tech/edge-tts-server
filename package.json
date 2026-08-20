@@ -1,0 +1,8 @@
+{
+  "name": "edge-tts-server",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "msedge-tts": "^2.0.7"
+  }
+}
